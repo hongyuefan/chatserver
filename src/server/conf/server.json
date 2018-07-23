@@ -1,0 +1,25 @@
+{
+	"LogLevel": "debug",
+	"LogPath": "",
+	"TCPAddr": "127.0.0.1:3563",
+	"WSAddr": "127.0.0.1:3653",
+	"MaxConnNum": 20000,
+	"SqlType":"mysql",
+	"Conn":"root:@tcp(127.0.0.1:3306)/jbt",
+	
+	"Email_From_Name":"hello",
+	"Email_Stmp":"smtp.qq.com",
+	"Email_Port":465,   
+	"Email_Sender":"1027350999@qq.com",
+	"Email_Pass":"bznzexsyprsibegf",   
+	
+	"AppId":"1400081071",
+	"AppKey":"8bd9c73577e97decf4772defa48d1066",
+	"TplId":102918,
+	
+	"Token_Salt":"bznzexsyprsibegf",
+	"Token_Exp":10,
+	
+	"SessionExpire":600,
+	"SessionCheck" :10
+}
